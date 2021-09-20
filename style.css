@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body,html{
+    display: block;
+}
+.nome{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    padding-top: 30px;
+    text-align: center;
+    color: blue;
+}
+
+.botao{
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.preto{
+    background-color: black;
+    color: red;
+
+}
+
+.vermelho{
+    background-color: red;
+    color: black;
+
+}
+/*
+.verde{
+background-color: rgb(96, 221, 96);
+color: red;
+}
+
+.vermelho{
+background-color: red;
+color: blue;
+}
+
+.azul{
+background-color: blue;
+color: green;
+}
+*/
